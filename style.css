@@ -1,0 +1,57 @@
+/* body {
+  background: rgb(17, 17, 17);
+  color: white;
+}
+
+button{
+  background: yellow;
+  border: none;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+strong{
+  color: lime;
+} */
+
+/* .dark_theme {
+  background: rgb(17, 17, 17);
+  color: beige;
+} */
+
+.nav_logo {
+	margin-left: 50%;
+}
+
+select {
+	/* color: aliceblue; */
+	border-radius: 8px;
+	/* background: black; */
+	border: none;
+	margin-left: 5%;
+	padding: 2px 5px;
+}
+
+form {
+	margin-left: 60%;
+}
+
+#container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding-top: 5%;
+	margin: 0 5%;
+}
+
+.card {
+	margin: 2%;
+}
+
+#search-inp {
+	border-radius: 18px 0 0 18px;
+}
+
+#search-btn {
+	border-radius: 0 18px 18px 0;
+}
